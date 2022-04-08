@@ -20,7 +20,7 @@
     "flatiron"
   ],
   "dependencies": {
-    "async": "^2.4.1",
+    "async": "^3.2.2",
     "lodash": "~4.16.6",
     "request": "~2.78.0"
   },
